@@ -1,0 +1,9 @@
+pystac-client>=0.9
+planetary-computer>=1.0
+odc-stac>=0.5
+numpy>=2.0
+scipy>=1.13
+shapely>=2.0
+pyproj>=3.6
+matplotlib>=3.8
+pillow>=10.0
